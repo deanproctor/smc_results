@@ -1,0 +1,84 @@
+2013-03-27 01:01:23 =ERROR REPORT====
+** Generic server <0.95.0> terminating 
+** Last message in was {req_timeout,#Ref<0.0.4.141637>}
+** When Server state == {state,{216,10,199,102},8087,false,false,undefined,undefined,{[],[]},1,[],infinity,100}
+** Reason for termination == 
+** disconnected
+2013-03-27 01:01:23 =CRASH REPORT====
+  crasher:
+    initial call: riakc_pb_socket:init/1
+    pid: <0.95.0>
+    registered_name: []
+    exception exit: {disconnected,[{gen_server,terminate,6,[{file,"gen_server.erl"},{line,747}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+    ancestors: [<0.94.0>]
+    messages: []
+    links: [<0.94.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 1597
+    stack_size: 24
+    reductions: 5723889
+  neighbours:
+2013-03-27 01:01:23 =SUPERVISOR REPORT====
+     Supervisor: {local,basho_bench_sup}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.93.0>},{name,basho_bench_worker_6},{mfargs,{basho_bench_worker,start_link,[basho_bench_worker_6,6]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2013-03-27 01:54:33 =ERROR REPORT====
+** Generic server <0.101.0> terminating 
+** Last message in was {req_timeout,#Ref<0.0.10.257356>}
+** When Server state == {state,{216,10,199,106},8087,false,false,undefined,undefined,{[],[]},1,[],infinity,100}
+** Reason for termination == 
+** disconnected
+2013-03-27 01:54:33 =CRASH REPORT====
+  crasher:
+    initial call: riakc_pb_socket:init/1
+    pid: <0.101.0>
+    registered_name: []
+    exception exit: {disconnected,[{gen_server,terminate,6,[{file,"gen_server.erl"},{line,747}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+    ancestors: [<0.100.0>]
+    messages: []
+    links: [<0.100.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 1597
+    stack_size: 24
+    reductions: 22098619
+  neighbours:
+2013-03-27 01:54:33 =SUPERVISOR REPORT====
+     Supervisor: {local,basho_bench_sup}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.99.0>},{name,basho_bench_worker_8},{mfargs,{basho_bench_worker,start_link,[basho_bench_worker_8,8]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2013-03-27 01:54:34 =ERROR REPORT====
+** Generic server <0.119.0> terminating 
+** Last message in was {req_timeout,#Ref<0.0.10.257815>}
+** When Server state == {state,{216,10,199,102},8087,false,false,undefined,undefined,{[],[]},1,[],infinity,100}
+** Reason for termination == 
+** disconnected
+2013-03-27 01:54:34 =CRASH REPORT====
+  crasher:
+    initial call: riakc_pb_socket:init/1
+    pid: <0.119.0>
+    registered_name: []
+    exception exit: {disconnected,[{gen_server,terminate,6,[{file,"gen_server.erl"},{line,747}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+    ancestors: [<0.118.0>]
+    messages: []
+    links: [<0.118.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 24
+    reductions: 14279204
+  neighbours:
+2013-03-27 01:54:34 =SUPERVISOR REPORT====
+     Supervisor: {local,basho_bench_sup}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.117.0>},{name,basho_bench_worker_14},{mfargs,{basho_bench_worker,start_link,[basho_bench_worker_14,14]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
