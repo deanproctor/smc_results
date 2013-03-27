@@ -1,0 +1,352 @@
+2013-03-27 00:00:00.922 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1472362
+2013-03-27 00:00:01.124 [debug] <0.484.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.100.0>: 95000 (95%)
+2013-03-27 00:00:03.019 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1074354
+2013-03-27 00:00:03.029 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1185494
+2013-03-27 00:00:07.175 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1128002
+2013-03-27 00:00:16.529 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1275749
+2013-03-27 00:00:22.409 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1210314
+2013-03-27 00:00:27.391 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1100174
+2013-03-27 00:00:31.660 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1129430
+2013-03-27 00:00:31.882 [debug] <0.485.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.130.0>: 85000 (85%)
+2013-03-27 00:00:36.056 [debug] <0.486.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.127.0>: 90000 (90%)
+2013-03-27 00:00:49.179 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1100583
+2013-03-27 00:00:51.352 [debug] <0.487.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.88.0>: 75000 (75%)
+2013-03-27 00:00:55.799 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1161010
+2013-03-27 00:00:57.718 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1170055
+2013-03-27 00:00:57.944 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1139958
+2013-03-27 00:00:59.580 [debug] <0.488.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.97.0>: 80000 (80%)
+2013-03-27 00:00:59.589 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1078335
+2013-03-27 00:01:03.320 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1280522
+2013-03-27 00:01:05.664 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1085480
+2013-03-27 00:01:06.218 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1083272
+2013-03-27 00:01:07.819 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1152057
+2013-03-27 00:01:10.477 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1439613
+2013-03-27 00:01:24.658 [debug] <0.489.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.103.0>: 90000 (90%)
+2013-03-27 00:01:24.915 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1240347
+2013-03-27 00:01:28.790 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1245658
+2013-03-27 00:01:29.625 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1301831
+2013-03-27 00:01:31.309 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1306447
+2013-03-27 00:01:32.033 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1125484
+2013-03-27 00:01:33.209 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1186815
+2013-03-27 00:01:34.860 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1074513
+2013-03-27 00:01:38.029 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1095999
+2013-03-27 00:01:39.412 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1133542
+2013-03-27 00:01:43.615 [warning] <0.100.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1054411
+2013-03-27 00:01:43.995 [debug] <0.490.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.82.0>: 85000 (85%)
+2013-03-27 00:01:45.702 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1443385
+2013-03-27 00:01:46.859 [debug] <0.491.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.79.0>: 90000 (90%)
+2013-03-27 00:01:47.258 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1305734
+2013-03-27 00:01:48.118 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1599001
+2013-03-27 00:01:49.657 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1328087
+2013-03-27 00:02:02.733 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1303472
+2013-03-27 00:02:02.952 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1207650
+2013-03-27 00:02:05.311 [debug] <0.492.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.106.0>: 85000 (85%)
+2013-03-27 00:02:10.156 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1595610
+2013-03-27 00:02:12.499 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1526173
+2013-03-27 00:02:20.712 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1181963
+2013-03-27 00:02:26.296 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1115043
+2013-03-27 00:02:26.634 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1230769
+2013-03-27 00:02:28.388 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1121135
+2013-03-27 00:02:28.559 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1070417
+2013-03-27 00:02:29.250 [debug] <0.493.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.124.0>: 95000 (95%)
+2013-03-27 00:02:31.847 [debug] <0.494.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.91.0>: 70000 (70%)
+2013-03-27 00:02:32.166 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1354262
+2013-03-27 00:02:34.110 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1089769
+2013-03-27 00:02:34.295 [debug] <0.495.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.115.0>: 70000 (70%)
+2013-03-27 00:02:38.376 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1177367
+2013-03-27 00:02:45.367 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1181271
+2013-03-27 00:02:50.505 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1092695
+2013-03-27 00:02:53.318 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1377571
+2013-03-27 00:02:58.849 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1546519
+2013-03-27 00:03:00.351 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1234290
+2013-03-27 00:03:02.836 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1106302
+2013-03-27 00:03:03.099 [debug] <0.496.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.130.0>: 90000 (90%)
+2013-03-27 00:03:04.038 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1364493
+2013-03-27 00:03:05.231 [debug] <0.497.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.136.0>: 80000 (80%)
+2013-03-27 00:03:05.280 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1118117
+2013-03-27 00:03:07.093 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1094188
+2013-03-27 00:03:07.140 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1286498
+2013-03-27 00:03:07.601 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1253161
+2013-03-27 00:03:10.156 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1131262
+2013-03-27 00:03:10.427 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1063121
+2013-03-27 00:03:13.754 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1095898
+2013-03-27 00:03:13.893 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1271624
+2013-03-27 00:03:13.912 [warning] <0.100.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1100410
+2013-03-27 00:03:14.068 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1061894
+2013-03-27 00:03:14.759 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1567244
+2013-03-27 00:03:14.990 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1256918
+2013-03-27 00:03:16.657 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1687736
+2013-03-27 00:03:19.441 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1140376
+2013-03-27 00:03:19.848 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1160896
+2013-03-27 00:03:21.461 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1055380
+2013-03-27 00:03:22.323 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1228663
+2013-03-27 00:03:24.390 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1049426
+2013-03-27 00:03:24.824 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1421663
+2013-03-27 00:03:26.066 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1179927
+2013-03-27 00:03:26.170 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1372830
+2013-03-27 00:03:36.598 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1054423
+2013-03-27 00:03:36.850 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1112296
+2013-03-27 00:03:40.903 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1405146
+2013-03-27 00:03:45.145 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1299783
+2013-03-27 00:03:48.497 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1152683
+2013-03-27 00:03:53.508 [debug] <0.498.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.82.0>: 90000 (90%)
+2013-03-27 00:03:55.950 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1116926
+2013-03-27 00:03:56.193 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1176741
+2013-03-27 00:03:59.535 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1052186
+2013-03-27 00:04:01.761 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1057528
+2013-03-27 00:04:03.265 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1052850
+2013-03-27 00:04:07.194 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1346582
+2013-03-27 00:04:08.495 [debug] <0.499.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.121.0>: 90000 (90%)
+2013-03-27 00:04:09.178 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1286559
+2013-03-27 00:04:10.134 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1054747
+2013-03-27 00:04:11.075 [info] <0.100.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.100.0>) has requested stop: empty_keygen
+2013-03-27 00:04:13.853 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1452891
+2013-03-27 00:04:21.049 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1237813
+2013-03-27 00:04:21.827 [debug] <0.501.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.112.0>: 80000 (80%)
+2013-03-27 00:04:28.568 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1149448
+2013-03-27 00:04:28.816 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1115089
+2013-03-27 00:04:28.840 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1557786
+2013-03-27 00:04:28.870 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1274652
+2013-03-27 00:04:29.309 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1277604
+2013-03-27 00:04:49.755 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1051721
+2013-03-27 00:04:51.308 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1079735
+2013-03-27 00:04:54.324 [debug] <0.502.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.106.0>: 90000 (90%)
+2013-03-27 00:04:56.691 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1126440
+2013-03-27 00:05:01.429 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1288189
+2013-03-27 00:05:02.425 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1107967
+2013-03-27 00:05:08.343 [debug] <0.503.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.94.0>: 75000 (75%)
+2013-03-27 00:05:09.695 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1083650
+2013-03-27 00:05:10.279 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1058426
+2013-03-27 00:05:13.337 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1570992
+2013-03-27 00:05:13.679 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1082975
+2013-03-27 00:05:14.536 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1473761
+2013-03-27 00:05:15.944 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1125776
+2013-03-27 00:05:19.284 [debug] <0.504.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.118.0>: 75000 (75%)
+2013-03-27 00:05:22.657 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1097504
+2013-03-27 00:05:25.979 [debug] <0.505.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.127.0>: 95000 (95%)
+2013-03-27 00:05:27.361 [debug] <0.506.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.88.0>: 80000 (80%)
+2013-03-27 00:05:29.722 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1683971
+2013-03-27 00:05:31.024 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1381697
+2013-03-27 00:05:31.892 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1205204
+2013-03-27 00:05:32.339 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1095346
+2013-03-27 00:05:42.662 [debug] <0.507.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.97.0>: 85000 (85%)
+2013-03-27 00:05:46.343 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1743503
+2013-03-27 00:05:48.383 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1227134
+2013-03-27 00:05:48.919 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1355777
+2013-03-27 00:05:50.316 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1048818
+2013-03-27 00:05:50.754 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1049914
+2013-03-27 00:05:53.854 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1557542
+2013-03-27 00:05:59.941 [debug] <0.508.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.130.0>: 95000 (95%)
+2013-03-27 00:06:01.302 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1285330
+2013-03-27 00:06:05.189 [debug] <0.509.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.91.0>: 75000 (75%)
+2013-03-27 00:06:05.680 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1122150
+2013-03-27 00:06:06.905 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1145892
+2013-03-27 00:06:07.551 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1260889
+2013-03-27 00:06:08.948 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1251940
+2013-03-27 00:06:10.386 [debug] <0.510.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.103.0>: 95000 (95%)
+2013-03-27 00:06:10.714 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1091869
+2013-03-27 00:06:14.303 [debug] <0.511.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.79.0>: 95000 (95%)
+2013-03-27 00:06:15.778 [warning] <0.124.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1272279
+2013-03-27 00:06:20.250 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1535932
+2013-03-27 00:06:22.243 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1105520
+2013-03-27 00:06:24.166 [info] <0.124.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.124.0>) has requested stop: empty_keygen
+2013-03-27 00:06:26.300 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1564572
+2013-03-27 00:06:37.630 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1106684
+2013-03-27 00:06:40.201 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1100830
+2013-03-27 00:06:50.184 [debug] <0.513.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.82.0>: 95000 (95%)
+2013-03-27 00:06:52.018 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1413282
+2013-03-27 00:06:54.159 [debug] <0.514.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.115.0>: 75000 (75%)
+2013-03-27 00:06:54.940 [debug] <0.515.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.136.0>: 85000 (85%)
+2013-03-27 00:06:55.724 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1173409
+2013-03-27 00:06:58.064 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1286414
+2013-03-27 00:06:58.307 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1093200
+2013-03-27 00:07:00.648 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1103774
+2013-03-27 00:07:07.167 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1113096
+2013-03-27 00:07:14.096 [warning] <0.130.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1256349
+2013-03-27 00:07:14.825 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1273806
+2013-03-27 00:07:18.297 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1233533
+2013-03-27 00:07:19.632 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1196288
+2013-03-27 00:07:19.660 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1158009
+2013-03-27 00:07:22.980 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1428485
+2013-03-27 00:07:33.892 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1246120
+2013-03-27 00:07:34.679 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1400078
+2013-03-27 00:07:36.116 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1229410
+2013-03-27 00:07:36.464 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1064570
+2013-03-27 00:07:42.420 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1242174
+2013-03-27 00:07:44.909 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1334550
+2013-03-27 00:07:45.068 [debug] <0.516.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.106.0>: 95000 (95%)
+2013-03-27 00:07:46.055 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1303476
+2013-03-27 00:07:53.556 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1201760
+2013-03-27 00:07:57.382 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1111253
+2013-03-27 00:07:58.920 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1137955
+2013-03-27 00:08:00.044 [debug] <0.517.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.121.0>: 95000 (95%)
+2013-03-27 00:08:01.771 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1057562
+2013-03-27 00:08:03.701 [debug] <0.518.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.94.0>: 80000 (80%)
+2013-03-27 00:08:06.234 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1052721
+2013-03-27 00:08:07.573 [warning] <0.127.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1067099
+2013-03-27 00:08:17.864 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1094998
+2013-03-27 00:08:20.486 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1105148
+2013-03-27 00:08:21.547 [info] <0.127.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.127.0>) has requested stop: empty_keygen
+2013-03-27 00:08:21.663 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1252334
+2013-03-27 00:08:21.897 [debug] <0.520.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.112.0>: 85000 (85%)
+2013-03-27 00:08:27.417 [info] <0.130.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.130.0>) has requested stop: empty_keygen
+2013-03-27 00:08:28.778 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1277528
+2013-03-27 00:08:34.896 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1250578
+2013-03-27 00:08:41.484 [warning] <0.103.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1645408
+2013-03-27 00:08:42.397 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1096202
+2013-03-27 00:08:42.776 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1089501
+2013-03-27 00:08:42.922 [debug] <0.522.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.118.0>: 80000 (80%)
+2013-03-27 00:08:44.546 [warning] <0.82.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1103947
+2013-03-27 00:08:44.558 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1140800
+2013-03-27 00:08:49.579 [info] <0.103.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.103.0>) has requested stop: empty_keygen
+2013-03-27 00:08:50.834 [warning] <0.79.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1062820
+2013-03-27 00:08:51.037 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1245155
+2013-03-27 00:08:54.387 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1123548
+2013-03-27 00:08:54.933 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1127780
+2013-03-27 00:08:55.022 [info] <0.79.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.79.0>) has requested stop: empty_keygen
+2013-03-27 00:08:56.233 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1136487
+2013-03-27 00:08:59.463 [debug] <0.525.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.88.0>: 85000 (85%)
+2013-03-27 00:09:02.346 [debug] <0.526.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.97.0>: 90000 (90%)
+2013-03-27 00:09:03.317 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1123949
+2013-03-27 00:09:09.447 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1124655
+2013-03-27 00:09:13.301 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1171208
+2013-03-27 00:09:14.638 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1178639
+2013-03-27 00:09:21.951 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1127022
+2013-03-27 00:09:23.055 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1202934
+2013-03-27 00:09:25.182 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1089021
+2013-03-27 00:09:27.214 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1432389
+2013-03-27 00:09:29.583 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1962178
+2013-03-27 00:09:31.667 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1114981
+2013-03-27 00:09:38.968 [debug] <0.527.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.136.0>: 90000 (90%)
+2013-03-27 00:09:43.088 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1352567
+2013-03-27 00:09:43.589 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1168288
+2013-03-27 00:09:43.715 [warning] <0.121.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1306624
+2013-03-27 00:09:43.745 [warning] <0.106.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1233752
+2013-03-27 00:09:45.506 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1467441
+2013-03-27 00:09:53.952 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1216219
+2013-03-27 00:09:55.308 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1071004
+2013-03-27 00:09:57.356 [info] <0.82.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.82.0>) has requested stop: empty_keygen
+2013-03-27 00:10:08.162 [debug] <0.529.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.91.0>: 80000 (80%)
+2013-03-27 00:10:08.913 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1130655
+2013-03-27 00:10:22.690 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1104246
+2013-03-27 00:10:23.828 [debug] <0.530.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.115.0>: 80000 (80%)
+2013-03-27 00:10:28.673 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1174028
+2013-03-27 00:10:31.643 [info] <0.121.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.121.0>) has requested stop: empty_keygen
+2013-03-27 00:10:35.860 [info] <0.106.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.106.0>) has requested stop: empty_keygen
+2013-03-27 00:10:41.015 [debug] <0.533.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.112.0>: 90000 (90%)
+2013-03-27 00:10:41.679 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1085161
+2013-03-27 00:10:42.162 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1187120
+2013-03-27 00:10:44.521 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1204956
+2013-03-27 00:10:49.730 [debug] <0.534.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.118.0>: 85000 (85%)
+2013-03-27 00:10:51.797 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1085434
+2013-03-27 00:10:51.968 [debug] <0.535.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.94.0>: 85000 (85%)
+2013-03-27 00:10:54.539 [debug] <0.536.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.97.0>: 95000 (95%)
+2013-03-27 00:10:56.315 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1074029
+2013-03-27 00:10:57.524 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1048656
+2013-03-27 00:10:58.630 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1057993
+2013-03-27 00:11:00.271 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1262271
+2013-03-27 00:11:03.424 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1453807
+2013-03-27 00:11:10.399 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1154374
+2013-03-27 00:11:11.567 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1161101
+2013-03-27 00:11:11.800 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1075606
+2013-03-27 00:11:12.340 [warning] <0.97.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1144001
+2013-03-27 00:11:15.689 [debug] <0.537.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.88.0>: 90000 (90%)
+2013-03-27 00:11:16.754 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1105964
+2013-03-27 00:11:18.787 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1393049
+2013-03-27 00:11:24.077 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1093735
+2013-03-27 00:11:24.464 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1094275
+2013-03-27 00:11:26.265 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1085079
+2013-03-27 00:11:35.263 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1106593
+2013-03-27 00:11:43.609 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1387493
+2013-03-27 00:11:47.203 [debug] <0.538.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.136.0>: 95000 (95%)
+2013-03-27 00:11:47.491 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1597091
+2013-03-27 00:11:57.720 [debug] <0.539.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.91.0>: 85000 (85%)
+2013-03-27 00:12:02.463 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1470470
+2013-03-27 00:12:09.209 [debug] <0.540.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.115.0>: 85000 (85%)
+2013-03-27 00:12:24.212 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1102889
+2013-03-27 00:12:28.469 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1132297
+2013-03-27 00:12:29.716 [info] <0.97.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.97.0>) has requested stop: empty_keygen
+2013-03-27 00:12:44.930 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1304375
+2013-03-27 00:12:46.011 [debug] <0.542.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.112.0>: 95000 (95%)
+2013-03-27 00:12:48.569 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1080546
+2013-03-27 00:12:48.703 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1201773
+2013-03-27 00:12:53.033 [debug] <0.543.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.118.0>: 90000 (90%)
+2013-03-27 00:12:56.541 [debug] <0.544.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.94.0>: 90000 (90%)
+2013-03-27 00:12:58.536 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1909087
+2013-03-27 00:12:58.942 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1124976
+2013-03-27 00:13:00.472 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1267767
+2013-03-27 00:13:10.299 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1079941
+2013-03-27 00:13:12.414 [debug] <0.545.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.88.0>: 95000 (95%)
+2013-03-27 00:13:14.941 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1200035
+2013-03-27 00:13:16.934 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1320556
+2013-03-27 00:13:21.287 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1237927
+2013-03-27 00:13:23.107 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1682157
+2013-03-27 00:13:23.970 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1234435
+2013-03-27 00:13:27.744 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1116830
+2013-03-27 00:13:29.804 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1510564
+2013-03-27 00:13:30.903 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1055665
+2013-03-27 00:13:33.961 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1203386
+2013-03-27 00:13:37.352 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1326419
+2013-03-27 00:13:39.287 [warning] <0.136.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1076899
+2013-03-27 00:13:39.638 [info] <0.136.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.136.0>) has requested stop: empty_keygen
+2013-03-27 00:13:43.511 [debug] <0.547.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.91.0>: 90000 (90%)
+2013-03-27 00:13:45.486 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1139531
+2013-03-27 00:13:46.059 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1241563
+2013-03-27 00:13:51.181 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1086310
+2013-03-27 00:13:51.904 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 2201520
+2013-03-27 00:13:53.556 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1306947
+2013-03-27 00:13:54.328 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1068049
+2013-03-27 00:13:55.817 [debug] <0.548.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.115.0>: 90000 (90%)
+2013-03-27 00:13:55.997 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1270923
+2013-03-27 00:14:06.605 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1429809
+2013-03-27 00:14:07.658 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1435049
+2013-03-27 00:14:13.109 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1051541
+2013-03-27 00:14:17.893 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1222388
+2013-03-27 00:14:21.363 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1639083
+2013-03-27 00:14:21.624 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1118736
+2013-03-27 00:14:24.555 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1159372
+2013-03-27 00:14:24.646 [warning] <0.112.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1052249
+2013-03-27 00:14:27.119 [info] <0.112.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.112.0>) has requested stop: empty_keygen
+2013-03-27 00:14:29.761 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1443013
+2013-03-27 00:14:31.974 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1621525
+2013-03-27 00:14:33.205 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1060134
+2013-03-27 00:14:33.488 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1084064
+2013-03-27 00:14:33.566 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1110232
+2013-03-27 00:14:34.612 [warning] <0.94.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1156629
+2013-03-27 00:14:35.344 [warning] <0.88.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1108654
+2013-03-27 00:14:44.686 [debug] <0.550.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.94.0>: 95000 (95%)
+2013-03-27 00:14:45.734 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1304671
+2013-03-27 00:14:46.845 [debug] <0.551.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.118.0>: 95000 (95%)
+2013-03-27 00:14:47.122 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1221088
+2013-03-27 00:14:48.041 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1523575
+2013-03-27 00:14:50.623 [info] <0.88.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.88.0>) has requested stop: empty_keygen
+2013-03-27 00:14:54.031 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1099454
+2013-03-27 00:15:03.953 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1248461
+2013-03-27 00:15:07.312 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1565221
+2013-03-27 00:15:09.377 [debug] <0.553.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.91.0>: 95000 (95%)
+2013-03-27 00:15:10.369 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1082715
+2013-03-27 00:15:21.790 [debug] <0.554.0>@basho_bench_keygen:sequential_int_generator:160 sequential_int_gen: <0.115.0>: 95000 (95%)
+2013-03-27 00:15:31.644 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1053575
+2013-03-27 00:15:32.880 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1062913
+2013-03-27 00:15:42.852 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1415670
+2013-03-27 00:15:43.248 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1150404
+2013-03-27 00:15:50.286 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1356652
+2013-03-27 00:15:55.506 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1057394
+2013-03-27 00:15:55.657 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1224876
+2013-03-27 00:15:56.638 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1151505
+2013-03-27 00:15:58.078 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1054109
+2013-03-27 00:16:01.772 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1097745
+2013-03-27 00:16:08.014 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1079407
+2013-03-27 00:16:15.285 [info] <0.94.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.94.0>) has requested stop: empty_keygen
+2013-03-27 00:16:15.851 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1112862
+2013-03-27 00:16:16.892 [warning] <0.118.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1437341
+2013-03-27 00:16:18.007 [info] <0.118.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.118.0>) has requested stop: empty_keygen
+2013-03-27 00:16:19.079 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1335731
+2013-03-27 00:16:22.436 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1071992
+2013-03-27 00:16:27.916 [warning] <0.91.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1534673
+2013-03-27 00:16:28.171 [info] <0.91.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.91.0>) has requested stop: empty_keygen
+2013-03-27 00:16:32.870 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1053680
+2013-03-27 00:16:32.966 [warning] <0.115.0>@basho_bench_valgen:data_block:92 value_generator_source_size is too small 1048576 < 1848429
+2013-03-27 00:16:36.232 [info] <0.115.0>@basho_bench_worker:worker_next_op:271 Driver basho_bench_driver_riakc_pb (<0.115.0>) has requested stop: empty_keygen
+2013-03-27 00:16:36.236 [info] <0.67.0>@basho_bench_stats:report_total_errors:318 No Errors.
+2013-03-27 00:16:36.237 [info] <0.2.0>@basho_bench:wait_for_stop:181 Test stopped: shutdown
